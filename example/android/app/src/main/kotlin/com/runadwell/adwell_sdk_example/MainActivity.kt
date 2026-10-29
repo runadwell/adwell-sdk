@@ -1,0 +1,5 @@
+package com.runadwell.adwell_sdk_example
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
